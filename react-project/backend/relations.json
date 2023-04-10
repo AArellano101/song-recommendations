@@ -1,0 +1,25 @@
+{
+    "firstName": 
+        {
+            "thomas": "Lil Nas X",
+            "aiden": "classical music",
+            "oscar": "Jack Harlow",
+            "aaron": "good music"
+        },
+    "country": 
+        {
+            "CA": "Drake",
+            "USA": "Thomas Ross"
+        },
+    "gender": 
+        {
+            "male": "Taylor Swift",
+            "female": "Karl Malone"
+        },
+    "artist":
+        {
+            "Bryson Tiller": "Brent Faiyez",
+            "Drake": "A$AP Rocky",
+            "Taylor Swift": "Thomas Ross"
+        }
+}
